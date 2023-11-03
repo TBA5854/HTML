@@ -1,0 +1,40 @@
+body{
+    background-color: black;color: rgb(57, 201, 112);font-family: sans-serif;
+}
+span{
+    background-color: #333;color: pink;text-align: right ;
+}
+#test{
+    text-align: center;color: teal;
+}
+div{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+.box{
+    background-image: url(/src/SkinseedSkin_1683867916742.png);
+    height: 75px;
+    width: 75px;
+    border-color: rgb(39, 124, 92);
+    border: red;
+    border-left: 0px;
+    border-radius: 20px;
+    border-style: solid;
+    color: green;
+}
+
+
+
+
+/*color >> text color
+background-color >> bg color
+font-family >> font name
+font-size >> txt size
+font-weight >> boldness
+text-align >> alignment
+
+
+//in img tag
+height >> h of image
+width >> w of image*/
